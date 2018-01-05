@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.data:spring-data-releasetrain:Gosling-RELEASE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-releasetrain/Gosling-RELEASE/spring-data-releasetrain-Gosling-RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-releasetrain/Gosling-RELEASE/spring-data-releasetrain-Gosling-RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-releasetrain/Gosling-RELEASE/spring-data-releasetrain-Gosling-RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
